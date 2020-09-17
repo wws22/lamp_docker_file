@@ -22,7 +22,7 @@ Put your *.html, *.cgi and other files into htdocs/
 
 Put your database_name.sql DUMP files into htdocs/db_init
 
-Container will create each 'database_name' and do an export from *.sql file
+The container will create each 'database_name' and do an export from *.sql file
 
 Starting your server:
 
